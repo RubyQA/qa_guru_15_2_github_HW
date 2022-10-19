@@ -3,12 +3,12 @@ import org.junit.jupiter.api.Test;
 
 public class exampleTest {
     @Test
-    void exampleTest(){
+    void exampleTest3(){
         Assertions.assertTrue(2>1);
     }
 
     @Test
-    void exampleTest1(){
+    void exampleTest4(){
         Assertions.assertTrue(1>2);
     }
 }
