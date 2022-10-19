@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class exampleTest {
+public class ExampleTest {
     @Test
     void exampleTest3(){
         Assertions.assertTrue(2>1);
